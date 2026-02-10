@@ -14,7 +14,7 @@
 
 ## ⚡ Sobre mim
 
-Desenvolvedor em evolução contínua, focado em **construir soluções reais**, não apenas código bonito.
+Futuro Analista de dados, focado em **construir soluções reais**, não apenas código bonito.
 
 Mentalidade prática, visão de produto e obsessão por **clareza, eficiência e escala**.
 
@@ -23,7 +23,7 @@ Mentalidade prática, visão de produto e obsessão por **clareza, eficiência e
 ## 🧬 Stack & Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,git,github,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,github,linux&theme=dark" />
 </p>
 
 <p align="center">
