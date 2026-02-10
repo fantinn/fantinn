@@ -35,14 +35,5 @@ Mentalidade prática, visão de produto e obsessão por **clareza, eficiência e
 ---
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=fantinn&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fantinn&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=fantinn&theme=tokyo-night&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&color=0:24243e,100:0f0c29&height=120&section=footer" />
 </p>
