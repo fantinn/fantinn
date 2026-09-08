@@ -14,7 +14,7 @@
 
 ## ⚡ Sobre mim
 
-Futuro Analista de Dados, focado em **construir soluções reais com automação e IA**, não apenas código bonito.
+Focado em **construir soluções reais com automação e IA**, não apenas código bonito.
 
 📍 Jacareí, São Paulo, Brasil
 💼 Backoffice na **Büttow da Silva Advogados Associados**
